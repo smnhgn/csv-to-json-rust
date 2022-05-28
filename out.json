@@ -1,0 +1,37 @@
+[
+  {
+    "age": 34,
+    "boolean": true,
+    "id": 1,
+    "name": "bob",
+    "some text": "some other text"
+  },
+  {
+    "age": 22,
+    "boolean": false,
+    "id": 2,
+    "name": "lisa",
+    "some text": "some different text"
+  },
+  {
+    "age": 29,
+    "boolean": false,
+    "id": 3,
+    "name": "ethan",
+    "some text": "another different text"
+  },
+  {
+    "age": 26,
+    "boolean": true,
+    "id": 4,
+    "name": "jenny",
+    "some text": "and a last text"
+  },
+  {
+    "age": 31,
+    "boolean": true,
+    "id": 5,
+    "name": "alan",
+    "some text": "text with , and 24"
+  }
+]

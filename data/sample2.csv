@@ -1,0 +1,6 @@
+id,name,age,"some text",boolean
+1,bob,34,"some other text",true
+2,lisa,22,"some different text",false
+3,ethan,29,"another different text",false
+4,jenny,26,"and a last text",true
+5,alan,31,"text with , and 24",true
